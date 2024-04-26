@@ -13,6 +13,21 @@ public class defalut {
 		 System.out.println("hi");
 		 System.out.println("Deepik");
 		 
+		 
+		 
+		 
 	}
+	
+	public void system()
+	{
+		System.out.println("hiiiiiiii");
+	}
+	
+	public void system2()
+	{
+		System.out.println("hiiiietegiii");
+	}
+
+	
 
 }
